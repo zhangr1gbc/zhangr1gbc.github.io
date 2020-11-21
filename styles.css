@@ -1,1 +1,29 @@
-body {background-color:#ffffff}
+h1 {color:#000066;
+    font-family:Impact, Charcoal, sans-serif;
+    font-style:italic;
+    font-size:5vw;
+}
+
+h2 {text-align:center;
+    color:#000066;
+}
+
+header {
+    color:#000066;
+    font-style:italic;
+}
+
+body {
+    text-align:justify;
+    background-color:#e6f2ff;
+    border: 1px solid black;
+    margin: 25px 50px 25px 50px;
+    padding: 10px 15px 10px 15px;
+    color:#000080;
+}
+
+footer {
+    text-align: center;
+    margin: 0 auto;
+    margin-top:30px:
+}
